@@ -1,5 +1,5 @@
 /**
- * The program calculates the energy 
+ * The program calculates the energy
  *
  * By:      Michael Clermont
  * Version: 1.0
