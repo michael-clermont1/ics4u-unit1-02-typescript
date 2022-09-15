@@ -18,7 +18,7 @@ try {
   }
   const energy = massNumber * (2.99 * 10 ** 8) ** 2
   console.log(
-    `The amount of energy released with a mass of ${massNumber} is ${energy}`
+    `The amount of energy released with a mass of ${massNumber} is ${energy}`,
   )
 } catch (e) {
   console.log('\nThat is not a number.')
