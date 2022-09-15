@@ -1,6 +1,5 @@
 /**
- * The program calcualtes the amount of logs
- *   that can fit into a truck.
+ * The program calculates the energy 
  *
  * By:      Michael Clermont
  * Version: 1.0
